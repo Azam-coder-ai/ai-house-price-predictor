@@ -9,7 +9,7 @@ An end-to-end Machine Learning and Data Engineering pipeline that predicts resid
 4. **Model Training:** Split data into an 80/20 Train-Test structure and optimized patterns using a `LinearRegression` engine.
 5. **Interactive UI:** Serialized core assets into `.pkl` file binaries and constructed a web interface using the `Streamlit` framework.
 
-### This project done by using Housing.csv dataset from koggle. ###
+### This project done by using Housing.csv dataset taken by koggle. ###
 
 ## 🛠️ Technology Stack
 * **Language:** Python

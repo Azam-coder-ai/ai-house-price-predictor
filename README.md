@@ -39,3 +39,8 @@ An end-to-end Machine Learning and Data Engineering pipeline that predicts resid
 
 
    <img width="1366" height="606" alt="image" src="https://github.com/user-attachments/assets/0cf2545f-f42a-438c-9098-d6e581ca577b" />
+
+<img width="1366" height="606" alt="image" src="https://github.com/user-attachments/assets/4e15c442-3bc3-475d-ab43-77ff555e4173" />
+
+<img width="1366" height="606" alt="image" src="https://github.com/user-attachments/assets/b39a801e-dfd6-439c-b28a-a3b59882cdb5" />
+

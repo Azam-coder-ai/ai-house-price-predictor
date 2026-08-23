@@ -27,6 +27,9 @@ An end-to-end Machine Learning and Data Engineering pipeline that predicts resid
    pip install -r requirements.txt
    ```
 
+   <img width="1366" height="606" alt="image" src="https://github.com/user-attachments/assets/0cf2545f-f42a-438c-9098-d6e581ca577b" />
+
+
 3. Run the backend pipeline script to train the model architecture:
    ```bash
    python main.py
